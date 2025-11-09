@@ -140,5 +140,17 @@ Dashboard Preview
 <img width="1913" height="972" alt="Screenshot 2025-11-09 095350" src="https://github.com/user-attachments/assets/f8f56214-10c7-4792-b98e-fd512c422544" />
 <img width="1907" height="971" alt="Screenshot 2025-11-09 095553" src="https://github.com/user-attachments/assets/3f3d04c1-4e3e-46b4-a395-51685c063c70" />
 
+7. Repository Structure
+📂 UPI-Transactions-Dashboard
+├── 📁 data
+│   └── UPI Transactions.xlsx
+├── 📁 images
+│   └── Screenshot (158).png
+├── 📁 dashboard
+│   └── UPI_TRANSACTIONS.pbix
+├── 📁 docs
+│   └── README.md
+└── 📄 LICENSE
+
 
 
